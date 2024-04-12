@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahia</h1>
-<h3 align="center">A full-stack web developer | Embedded systems (software & harware) engineer</h3>
+<h3 align="center">A full-stack web developer | Embedded systems (software & harware) developer | Electromechanical engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiabsk&label=Profile%20views&color=0e75b6&style=flat" alt="yahiabsk" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yahiaBSK](https://github.com/yahiaBSK)
 
-- 💬 Ask me about **Web developement, Embedded systems ...**
+- 💬 Ask me about **Web development, Embedded systems ...**
 
 - 📫 How to reach me **boussouakyahia@gmail.com**
 
