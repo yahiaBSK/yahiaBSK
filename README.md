@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahiabsk" alt="yahiabsk" /></a> </p>
 
-- 📂 My CV : 👁️  <a href="https://github.com/yahiaBSK/yahiaBSK/raw/main/CV-yYBSK-Dev.psd.pdf" download>Download My CV</a>, or 🔽 [Download My CV](./CV-yYBSK-Dev.psd.pdf)
+- 📂 My CV :  🔽[Download My CV](./CV-yYBSK-Dev.psd.pdf),  Or  👁️<a href="https://github.com/yahiaBSK/yahiaBSK/raw/main/CV-yYBSK-Dev.psd.pdf" download>Download My CV</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yahiaBSK](https://github.com/yahiaBSK)
 
