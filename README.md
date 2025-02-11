@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahiabsk" alt="yahiabsk" /></a> </p>
 
-- 📂 All of my projects are available at
+- 📂 All of my projects are available at "./CV-yYBSK-Dev.psd.pdf"
 
 - 👨‍💻 All of my projects are available at [https://github.com/yahiaBSK](https://github.com/yahiaBSK)
 
