@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahia</h1>
-<h3 align="center">A full-stack web developer | Embedded systems (software & harware) developer </h3>
+<h3 align="center">A full-stack web developer | Embedded systems (software & hardware) developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiabsk&label=Profile%20views&color=0e75b6&style=flat" alt="yahiabsk" /> </p>
 
