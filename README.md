@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="edin.com/in/yahia-bsk/" target="_blank">
+  <a href="https://www.linkedin.com/in/yahia-bsk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@YahiaBSK" target="_blank">
